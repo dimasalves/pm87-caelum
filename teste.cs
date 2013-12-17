@@ -5,5 +5,6 @@ public class Teste
 		//comentando para criar uma brach
 		//fiz o outro comentario
 		Console.WriteLine("Exemplo de teste de uso do git");
+		//existe uma alteracao no stash, e estou criando outra parada
 	}
 }
